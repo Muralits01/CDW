@@ -1,2 +1,0 @@
-# CDW
-Clarivate Data warehouse
